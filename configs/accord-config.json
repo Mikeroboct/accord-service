@@ -1,0 +1,7 @@
+{
+  "accordUrl" : "https://uat-api-v1-transcriber.acordsolutions.net/oauth/forms/extract",
+  "accordAuthServer" : "https://asg-transcriber-nonprod.auth.us-east-1.amazoncognito.com/oauth2/token",
+  "accordApiKey" : "xxx",
+  "accordClientId" : "xxx",
+  "accordSecret": "xxx"
+}
